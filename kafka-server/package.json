@@ -1,0 +1,32 @@
+{
+  "name": "kafka-server",
+  "version": "1.0.0",
+  "description": "Kafka Server for Reddit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.14.0",
+    "aws-sdk": "^2.885.0",
+    "bcrypt": "^5.0.1",
+    "bcrypt-nodejs": "0.0.3",
+    "bcryptjs": "^2.4.3",
+    "formidable": "^1.1.1",
+    "glob": "^7.1.2",
+    "images-upload-middleware": "^1.1.1",
+    "kafka-node": "^2.5.0",
+    "mongodb": "^2.2.31",
+    "mongodb-autoincrement": "^1.0.1",
+    "mongoose": "^5.12.2",
+    "multer": "^1.4.2",
+    "multer-s3": "^2.9.0",
+    "mysql": "^2.18.1",
+    "nodemailer": "^4.6.4",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "uuidv4": "^1.0.0"
+  }
+}

@@ -1,0 +1,15 @@
+.profile-menu {
+  width: 100px !important;
+  background-color: #ffff !important;
+  height: 50px;
+}
+
+.profile-avatar {
+  margin-left: -60px;
+  position: absolute;
+}
+
+.icon-down {
+  margin-right: -60px;
+  color: gray;
+}

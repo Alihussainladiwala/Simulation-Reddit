@@ -1,0 +1,14 @@
+.about-comm-card {
+  padding: 0px !important;
+  height: 32vh !important;
+}
+
+.description {
+  width: 242px !important;
+  /* 40 px initial */
+  margin-left: 1vw;
+  height: 5vh;
+  line-height: 1.5em;
+  letter-spacing: 0.25px;
+  display: flex;
+}
